@@ -139,7 +139,7 @@ index.html      | Индексный файл для проверки вноси
 
 
 # Изображение
-![alt](https://assets3.insales.ru/assets/1/6200/1103928/1551887044/main-header-img.png)
+![alt](https://assets3.insales.ru/assets/1/6200/1103928/1551887044/main-header-img.png 'title')
 ```
 ![screenshot of sample](https://assets3.insales.ru/assets/1/6200/1103928/1551887044/main-header-img.png)
 ```
